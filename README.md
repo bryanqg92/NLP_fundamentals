@@ -25,6 +25,9 @@ En este notebook, se implementan diferentes técnicas de vectorización de texto
 ## ¿Qué encontrarás?
 cosine_similarity(a, b):Esta función calcula la similitud del coseno entre dos vectores, a y b.
 
+![Cosine](https://datascientest.com/es/wp-content/uploads/sites/7/2020/09/word2vec.png.webp)
+
+
 get_vocab(corpus): obtiene el vocabulario único de un conjunto de documentos corpus.
 
 oneHot(corpus, vocab):realiza la codificación one-hot de los documentos en un corpus.
