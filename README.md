@@ -61,6 +61,9 @@ Mejoraremos el entendimiento de las instrucciones de seguimiento de pared median
 # Desafío 4 Deep Learning para NLP: Redes Neuronales Recurrentes con Celdas de Elman
 En este proyecto, nos aventuraremos en el mundo del Deep Learning aplicado al Procesamiento del Lenguaje Natural (NLP, por sus siglas en inglés). Utilizaremos modelos de Redes Neuronales Recurrentes (RNN) con celdas de Elman, que son una de las formas más básicas de RNN. Nuestro objetivo será predecir la siguiente palabra en un texto utilizando un conjunto de cuentos cortos como conjunto de datos. Para lograrlo, utilizaremos técnicas de preprocesamiento de datos con el Tokenizer de Keras.
 
+![Celdas de Elman](https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-recurrente-768x251.png)
+
+
 ## Características principales
 Utilizaremos modelos de Redes Neuronales Recurrentes con celdas de Elman para realizar predicciones de texto.
 Implementaremos preprocesamiento de datos utilizando el Tokenizer de Keras.
